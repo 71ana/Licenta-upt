@@ -21,8 +21,8 @@ Acest proiect detectează anomalii în traficul de rețea în timp real folosind
 ├── backend/
 │   ├── model/
 │   │   ├── model.py
-│   │   ├── final_dataset.csv                    <-- trebuie adăugat manual
-│   │   └── anomaly_detector_model.pkl           <-- trebuie adăugat manual
+│   │   └── final_dataset.csv                    <-- trebuie adăugat manual
+│   ├── anomaly_detector_model.pkl           <-- trebuie adăugat manual   
 │   ├── api_server.py
 │   └── capture_logic.py
 │

@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "autoprefix": "^1.0.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.9",
+    "react-chartjs-2": "^5.3.0"
+  }
+}
